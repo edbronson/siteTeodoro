@@ -12,3 +12,31 @@ body {
     background: #3e0a12;
 }
 
+/* começo do header */
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 80px;
+    background: #3e0a12;
+    border-bottom: 1px solid #ffea3b;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbar li {
+    list-style: none;
+    padding: 0 30px;
+}
+
+#navbar li a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #ffea3b;
+}

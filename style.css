@@ -20,8 +20,8 @@ body {
     justify-content: space-between;
     padding: 10px 80px;
     background: #3e0a12;
-    border-bottom: 1px solid #ffea3b;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid #ffea3b;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
 #navbar {

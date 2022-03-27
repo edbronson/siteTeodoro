@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Unna:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@300;600&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Unna', serif;
+    font-family: 'Martel', serif;
 }
 
 body {
     width: 100%;
-    background: #3e0a12;
+    background: #fcf5e7;
+    
 }
 
 /* começo do header */
@@ -19,8 +21,8 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px 80px;
-    background: #3e0a12;
-    border-bottom: 2px solid #ffea3b;
+    background: #aa8855;
+    border-bottom: 8px solid #a33a3a;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
@@ -29,7 +31,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
-    top: 20px;
+    top: 35px;
 }
 
 #navbar li {
@@ -40,8 +42,13 @@ body {
 
 #navbar li a {
     text-decoration: none;
-    font-size: 24px;
-    color: #ffea3b;
+    font-size: 16px;
+    color: #fcf5e7;
     
 }
 
+.fa-bag-shopping {
+    position: absolute;
+    font-size: 24px;
+    top: -5px;
+}

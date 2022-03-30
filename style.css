@@ -21,7 +21,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px 80px;
-    background: #aa8855;
+    background: #ebe2d0;
     border-bottom: 8px solid #a33a3a;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
@@ -43,7 +43,7 @@ body {
 #navbar li a {
     text-decoration: none;
     font-size: 16px;
-    color: #fcf5e7;
+    color: #a33a3a;
     
 }
 
@@ -53,6 +53,3 @@ body {
     top: -5px;
 }
 
-.capa__harry {
-    width: 100vh;
-}

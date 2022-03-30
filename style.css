@@ -68,3 +68,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.titulo__formulario {
+    text-align: center;
+    font-size: 0.656rem;
+    color: #a33a3a;
+    
+}
+

@@ -83,70 +83,62 @@ body {
 }
 
 form {
-    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
 }
 
 .form__1 {
-    padding: 20px;
-    margin: 10px;
-    width: 100%;
+    margin: 20px;
     color: #a33a3a;
 }
 
 .form__2 {
-    padding: 20px;
-    margin: 10px;
-    width: 100%;
+    margin: 20px;
     color: #a33a3a;
 }
 
 .form__3 {
-    padding: 20px;
-    margin: 10px;
-    width: 100%;
+    margin: 20px;
     color: #a33a3a;
 }
  
 #nome {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #sobrenome {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #dataNascimento {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #email {
-    margin-right: 20px; 
+    margin-right: 10px; 
 }
 
 #whatsapp {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #endereco {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #bairro {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #cidade {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #estado {
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 #cep {
-    margin-right: 20px;
+    margin-right: 10px;
 }

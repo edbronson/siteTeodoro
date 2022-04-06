@@ -85,30 +85,32 @@ body {
 form {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .form__1 {
-    margin: 20px;
+    margin: 30px;
     color: #a33a3a;
 }
 
 .form__2 {
-    margin: 20px;
+    margin: 30px;
     color: #a33a3a;
 }
 
 .form__3 {
-    margin: 20px;
+    margin: 30px;
     color: #a33a3a;
 }
  
 #nome {
     margin-right: 10px;
+    width: 200px;
 }
 
 #sobrenome {
     margin-right: 10px;
+    width: 500px;
 }
 
 #dataNascimento {
@@ -117,6 +119,7 @@ form {
 
 #email {
     margin-right: 10px; 
+    width: 300px;
 }
 
 #whatsapp {
@@ -125,18 +128,22 @@ form {
 
 #endereco {
     margin-right: 10px;
+    width: 500px;
 }
 
 #bairro {
     margin-right: 10px;
+    width: 300px;
 }
 
 #cidade {
     margin-right: 10px;
+    width: 300px;
 }
 
 #estado {
     margin-right: 10px;
+    width: 250px;
 }
 
 #cep {

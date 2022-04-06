@@ -27,6 +27,7 @@ body {
 }
 
 #navbar {
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -63,7 +64,12 @@ body {
     color: #4a2b10;
 }
 
+.slide img {
+    width: 100%;
+}
+
 .linha {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;

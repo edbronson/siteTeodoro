@@ -82,4 +82,71 @@ body {
     
 }
 
+form {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.form__1 {
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    color: #a33a3a;
+}
+
+.form__2 {
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    color: #a33a3a;
+}
+
+.form__3 {
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    color: #a33a3a;
+}
  
+#nome {
+    margin-right: 20px;
+}
+
+#sobrenome {
+    margin-right: 20px;
+}
+
+#dataNascimento {
+    margin-right: 20px;
+}
+
+#email {
+    margin-right: 20px; 
+}
+
+#whatsapp {
+    margin-right: 20px;
+}
+
+#endereco {
+    margin-right: 20px;
+}
+
+#bairro {
+    margin-right: 20px;
+}
+
+#cidade {
+    margin-right: 20px;
+}
+
+#estado {
+    margin-right: 20px;
+}
+
+#cep {
+    margin-right: 20px;
+}
